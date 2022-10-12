@@ -79,7 +79,7 @@ form {
 .form-btn {
   all: unset; /*this removes the styling of a button*/
   position: relative;
-  border: 2px solid var(--color-primary);
+  border: 1px solid var(--color-primary);
   padding: 5px;
   border-radius: 3px;
   overflow: hidden;
